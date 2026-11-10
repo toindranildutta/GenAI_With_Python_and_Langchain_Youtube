@@ -1,0 +1,2 @@
+This is a demo README commit, will update it shortly, if you want to test anything, first search google - Get Gemini api key and create a key and keep it in .env file and import dotenv or directly use it for testing locally.
+Never commit the key in the remote repo
